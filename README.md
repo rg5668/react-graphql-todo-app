@@ -26,4 +26,9 @@
 
 -   tailwind
 -   postcss
--   react-icons
+-   react-icons  
+
+
+#### 시연영상
+https://github.com/rg5668/react-graphql-todo-app/assets/77878618/c551f50d-55ec-4fe0-8d46-5360f142105f
+
